@@ -1,0 +1,19 @@
+//Exercícios Node
+
+//  Exercicio 1
+
+let moduloNativo = require('http');
+let moduloInstalado = require('axios');
+let moduloProprio = require ("./minhaFuncao");
+
+// Exercicio 2
+
+let cachorro = {
+    nome: 'Scooby',
+    idade: 7,
+    gostaDeComer: true
+}
+module.exports = cachorro
+
+
+
