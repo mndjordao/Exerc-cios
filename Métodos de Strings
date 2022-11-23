@@ -1,0 +1,9 @@
+// exercicio 1
+
+function dominio(url){
+    return url.replace("", "http://")
+
+}
+
+
+
